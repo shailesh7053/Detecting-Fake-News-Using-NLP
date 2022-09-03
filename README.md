@@ -1,5 +1,5 @@
 # Detecting-Fake-News-Using-NLP 
-#(Passive Aggressive Classifier , SVC AND MultinomialNB)
+**(Passive Aggressive Classifier , SVC AND MultinomialNB)**
 Detecting Fake News with Python and Machine Learning
 
 Do you trust all the news you hear from social media?
